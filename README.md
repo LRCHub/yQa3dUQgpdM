@@ -1,0 +1,50 @@
+# Akina Nakamori – DESIRE -情熱-
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Get up, Get up, Get up, Get up,
+burning love
+やり切れない程 退屈な時があるわ
+あなたと居ても
+喋るぐらいなら 踊っていたいの
+今は 硝子のディスコティック
+そう みんな堕天使ね
+汗が羽のかわりに飛んでいる
+何にこだわればいいの
+愛の見えない時代の 恋人達ね
+まっさかさまに堕ちて desire
+炎のように燃えて desire
+恋も
+dance, dance, dance, danceほど
+夢中になれないなんてね 淋しい
+Get up, Get up, Get up, Get up,
+burning heart
+腕を離してよ
+キスをされるのもごめん
+気分じゃないの
+ヒールを脱ぎ捨て 感じているのよ
+夜の孤独な長さ
+そう 多分 贅沢な悩み
+わかっているわ これでも
+何を信じればいいの
+スキャンダルさえ
+時代のエクスタシィよ
+ぶつかり合って廻れ desire
+星のかけらを掴め desire
+夢はそうよ
+見る前に醒めてしまったら
+何にもならない
+Get up, Get up, Get up, Get up,
+burning love
+まっさかさまに堕ちて desire
+炎のように燃えて desire
+恋も
+dance, dance, dance, danceほど
+夢中になれないなんてね 淋しい
+Get up, Get up, Get up, Get up,
+burning heart
+Get up, Get up, Get up, Get up,
+Get up, Get up, Get up, Get up,
+burning love
+```
