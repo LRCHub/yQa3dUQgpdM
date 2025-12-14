@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "DESIRE -情熱-",
+  "base_artist": "Akina Nakamori",
+  "createdAt": "2025-12-14T10:15:26.033990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart's Desire",
+      "artist": "Lee Roy Parnell",
+      "has_synced": false,
+      "path": "select/01_Heart's_Desire_Lee_Roy_Parnell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fire & Desire",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Fire_&_Desire_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Desire",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/03_I_Desire_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lost Desire",
+      "artist": "The Roots feat. Malik B. & Talib Kweli",
+      "has_synced": true,
+      "path": "select/04_Lost_Desire_The_Roots_feat._Malik_B._&_Talib_Kweli.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Desire Lines",
+      "artist": "Lush",
+      "has_synced": true,
+      "path": "select/05_Desire_Lines_Lush.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Desire",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/06_Desire_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Desire",
+      "artist": "Moodymann",
+      "has_synced": false,
+      "path": "select/07_Desire_Moodymann.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can't Fight Your Desire",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/08_Can't_Fight_Your_Desire_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Halls of Desire",
+      "artist": "Tevin Campbell",
+      "has_synced": true,
+      "path": "select/09_The_Halls_of_Desire_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Waiting For You (feat. Desire & Seth Troxler)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/10_Waiting_For_You_(feat._Desire_&_Seth_Troxler)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Desire",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/11_Desire_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Desire",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/12_Desire_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Royal and Desire",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/13_Royal_and_Desire_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Desire is a Trap",
+      "artist": "Bladee feat. Ecco2k",
+      "has_synced": true,
+      "path": "select/14_Desire_is_a_Trap_Bladee_feat._Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Desire is a Trap",
+      "artist": "Bladee & Ecco2k",
+      "has_synced": true,
+      "path": "select/15_Desire_is_a_Trap_Bladee_&_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Desire",
+      "artist": "Yello",
+      "has_synced": true,
+      "path": "select/16_Desire_Yello.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Disease And Desire",
+      "artist": "Soft Cell",
+      "has_synced": true,
+      "path": "select/17_Disease_And_Desire_Soft_Cell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DESIRE",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_01_DESIRE_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DESIRE",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_02_DESIRE_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "DESIRE",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_03_DESIRE_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Desire-情熱-",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_04_Desire-情熱-_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "DESIRE-情熱-",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_05_DESIRE-情熱-_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "DESIRE～情熱～",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_06_DESIRE~情熱~_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "DESIRE-情熱-",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_07_DESIRE-情熱-_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "DESIRE-情熱-",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_08_DESIRE-情熱-_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "DESIRE-情熱-",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_09_DESIRE-情熱-_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "DESIRE -情熱-",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_10_DESIRE_-情熱-_中森_明菜.txt"
+    }
+  ]
+}
